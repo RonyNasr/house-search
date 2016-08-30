@@ -1,0 +1,47 @@
+{
+  "response": {
+    "zpid": "48749425",
+    "pageViewCount": {
+      "currentMonth": "21475",
+      "total": "21475"
+    },
+    "address": {
+      "street": "2114 Bigelow Ave N",
+      "zipcode": "98109",
+      "city": "Seattle",
+      "state": "WA",
+      "latitude": "47.637933",
+      "longitude": "-122.347938"
+    },
+    "links": {
+      "homeDetails": "http://www.zillow.com/homedetails/2114-Bigelow-Ave-N-Seattle-WA-98109/48749425_zpid/",
+      "photoGallery": "http://www.zillow.com/homedetails/2114-Bigelow-Ave-N-Seattle-WA-98109/48749425_zpid/#image=lightbox%3Dtrue",
+      "homeInfo": "http://www.zillow.com/homedetails/2114-Bigelow-Ave-N-Seattle-WA-98109/48749425_zpid/"
+    },
+    "images": {
+      "count": "1",
+      "image": { "url": "http://photos3.zillowstatic.com/p_d/ISxb3qa8s1cwx01000000000.jpg" }
+    },
+    "editedFacts": {
+      "useCode": "SingleFamily",
+      "bedrooms": "4",
+      "bathrooms": "3.0",
+      "finishedSqFt": "3470",
+      "lotSizeSqFt": "4680",
+      "yearBuilt": "1924",
+      "yearUpdated": "2003",
+      "numFloors": "2",
+      "basement": "Finished",
+      "roof": "Composition",
+      "view": "Water, City, Mountain",
+      "parkingType": "Off-street",
+      "heatingSources": "Gas",
+      "heatingSystem": "Forced air",
+      "rooms": "Laundry room, Walk-in closet, Master bath, Office, Dining room, Family room, Breakfast nook"
+    },
+    "neighborhood": "Queen Anne",
+    "schoolDistrict": "Seattle",
+    "elementarySchool": "John Hay",
+    "middleSchool": "McClure"
+  }
+}

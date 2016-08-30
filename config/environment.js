@@ -12,6 +12,12 @@ module.exports = function(environment) {
         // e.g. 'with-controller': true
       }
     },
+    firebase: {
+      apiKey: "AIzaSyDNh4zkDE_NavTOffNb75nRnQiN0wMeKCc",
+      authDomain: "house-search-aaf1b.firebaseapp.com",
+      databaseURL: "https://house-search-aaf1b.firebaseio.com",
+      storageBucket: "",
+    },
 
     APP: {
       // Here you can pass flags/options to your application instance
